@@ -1,0 +1,147 @@
+style.css
+body  {
+	background-color: rgb(230,230,230);
+	color: rgb(50,50,50);
+	font-family: Helvetica;
+	font-size: 16px;
+
+
+}
+h1 {color: rgb(223,59,87); 
+	font-size: 40px;
+	font-family: Helvetica;
+	font-weight: 100;
+	letter-spacing: 10px;
+	font-weight:bolder; 
+	width: 600px;
+	margin: 0px auto;
+
+}
+
+h2{
+	color: black;
+	font-family: Helvetica;
+	font-size: 30px;
+	letter-spacing: 5px;
+	font-weight: lighter;
+	width: 600px;
+	margin: 0px auto;
+	padding: 10px 24px; 
+
+}
+
+h3{
+	color: rgb(119,86,101);
+	font-family: verdana;
+	font-size: 25px;
+	letter-spacing: 3px;
+	font-weight: lighter;
+		width: 350px;
+	margin: 0px auto;
+	padding: 10px 24px; 
+
+}
+
+h4 {
+	color: rgb(238,75,106);
+	font-family: verdana;
+	font-size: 15px;
+	letter-spacing: 1px;
+	font-weight: lighter;
+		width: 200px;
+	margin: 0px auto;
+	padding: 10px 24px; 
+	align-content: center;
+
+}
+
+h5 {
+	color: rgb(119,86,101);
+	font-family: verdana;
+	font-size: 15px;
+	letter-spacing: 1px;
+	font-weight: lighter;
+		width: 750px;
+	margin: 0px auto;
+	padding: 10px 24px; 
+	text-align: center;
+
+} 
+
+h6 {
+	color: rgb(238,75,106);
+	font-family: verdana;
+	font-size: 15px;
+	letter-spacing: 1px;
+	font-weight: lighter;
+		width: 700px;
+	margin: 0px auto;
+	padding: 20px 24px; 
+	text-align: center;
+
+} 
+
+a{
+	text-decoration: none;
+	color: blue;
+	width: 550px;
+	margin: 600px;
+	padding: 0px 30px; 
+	text-align: right;
+	border-bottom: inset;
+
+
+}
+a:hover {
+	color: rgb(223,59,87);
+	padding: 0px 30px; 
+	}
+
+p{
+	color: rgb(119,86,101);
+	font-family: verdana;
+	font-size: 15px;
+	letter-spacing: 3px;
+	font-weight: lighter;
+		width: 400px;
+	margin: 0px auto;
+	padding: 10px 24px;
+	text-align: center; 
+	}
+ 
+ ul {
+	color: rgb(223,59,87);
+	padding: 0px 30px; 
+	width: 1000px;
+	margin: 10px;
+	padding: 10px 0px; 
+	text-align: left;
+	list-style: none;
+	font-family: verdana;
+	}
+
+.img-circle{
+	border-radius: 50%
+
+	}
+
+.list-inline{
+	background-color: white;
+	padding: 5px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 20px 20px;
+	text-align: center;
+	 list-style: none;
+  padding-right: : 10px;
+
+
+	}
+.card-white {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
